@@ -1,0 +1,6 @@
+Juan Pérez García|A001|85.5|90.0|88.5
+María González López|A002|75.0|80.0|77.5
+Carlos Rodríguez Martínez|A003|65.0|70.0|68.0
+Ana Martínez Sánchez|A004|95.0|92.5|94.0
+Luis Hernández Torres|A005|55.0|60.0|58.0
+
