@@ -218,7 +218,7 @@ María González López|A002|75.0|80.0|77.5
 - **Acceso fuera de rango**: Validación de índices antes de acceso
 - **Datos corruptos**: Validación exhaustiva al cargar archivos
 
-## 📊 Estadísticas y Reportes
+## Estadísticas y Reportes
 
 ### Cálculos Implementados
 - **Promedio general**: Media aritmética de todas las calificaciones finales
