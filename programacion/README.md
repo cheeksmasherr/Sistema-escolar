@@ -290,5 +290,5 @@ Donde:
 
 ##  Autores
 
-Pedro Ramses Sanchez Zarate, Monica Guadalupe Torres Loazano, Emiliano Montalvo Rocha
+Pedro Ramses Sanchez Zarate, Monica Guadalupe Torres Lazaro, Emiliano Montalvo Rocha
 
