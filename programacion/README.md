@@ -94,7 +94,6 @@ for (int i = 0; i < cantidadAlumnos - 1; i++) {
 
 #### Presentación Visual
 - **Separadores visuales**: Uso de líneas de caracteres para mejor legibilidad
-- **Símbolos informativos**: ✓ para éxito, ✗ para errores, ℹ para información
 - **Formato tabular**: Alineación consistente de datos
 - **Mensajes claros**: Indicadores visuales de estado de operaciones
 
